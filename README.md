@@ -26,3 +26,5 @@ to fork this and add a site.
 * http://mrsjxn.com
 * http://microbeats.cc
 * http://geomicons.com
+* http://johnotander.com
+* http://randoma11y.com
